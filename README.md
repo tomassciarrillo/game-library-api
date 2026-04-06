@@ -32,5 +32,3 @@ REST API built with Spring Boot for managing a game library.
 3. Use Postman or browser to test endpoints
 
 ---
-
-Built as part of backend learning journey 🚀
